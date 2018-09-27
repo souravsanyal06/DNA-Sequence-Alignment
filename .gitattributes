@@ -1,9 +1,7 @@
 $ cat .gitattributes
 
-*.pbxproj binary merge=union
+automate_assignment.py linguist-language=Python
+createfiles_Human_Great_Apes.py linguist-language=Python
+createTable_Human_Great_Apes.py linguist-language=Python
+createTable.py linguist-language=Python
 
-*.rb linguist-language=Python
-
-*.rb linguist-vendored=Python
-
-jc_ansiterm_0.1/* linguist-vendored=true
