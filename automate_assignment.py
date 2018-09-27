@@ -2,25 +2,25 @@ import os
 
 #Problem 1
 
-#compile1 = "g++ DNA_Align.cpp main.cpp -o exec1 "
+compile1 = "g++ DNA_Align.cpp main.cpp -o exec1 "
 
-#os.system(compile1)
+os.system(compile1)
 
-#execute1 = "./exec1 homosapiens_neanderthalensis_mitochondrion.txt homosapiens_mitochondrion.txt"
+execute1 = "./exec1 homosapiens_neanderthalensis_mitochondrion.txt homosapiens_mitochondrion.txt"
 
-#print("\nAligning DNA Sequences of Human vs Neanderthal Mitochondria\n")
+print("\nAligning DNA Sequences of Human vs Neanderthal Mitochondria\n")
 
-#print("\nPlease be patient\n")
+print("\nPlease be patient\n")
 
-#os.system(execute1)
+os.system(execute1)
 
-#copy_clean = " cp output.txt human_neanderthal_mitochondria_alignment.txt ; rm -rf output.txt "
+copy_clean = " cp output.txt human_neanderthal_mitochondria_alignment.txt ; rm -rf output.txt "
 
-#os.system(copy_clean)
+os.system(copy_clean)
 
-#print("\nFinished Aligning DNA Sequences of Human vs Neanderthal Mitochondria\n")
+print("\nFinished Aligning DNA Sequences of Human vs Neanderthal Mitochondria\n")
 
-#print("\nOpen human_neanderthal_mitochondria_alignment.txt to view the result\n")
+print("\nOpen human_neanderthal_mitochondria_alignment.txt to view the result\n")
 
 print("\n............................................\n") 
    
