@@ -1,0 +1,97 @@
+DNA1 			            DNA2                               Distance
+
+Algeria_EF064321                Armenia_AM263183                        84200
+
+Algeria_EF064321                Chinese_AF346972                        84182
+
+Algeria_EF064321                Egypt_EF060316                          84188
+
+Algeria_EF064321                Fillipino_AF382012                      84185
+
+Algeria_EF064321                Japanese_AF346989                       84188
+
+Algeria_EF064321                Morocco_AF381983                        84184
+
+Algeria_EF064321                Native_American_AY195748                84197
+
+Algeria_EF064321                Navajo_AY195787                         84197
+
+Algeria_EF064321                South_American_Guarani_AF346984         84197
+
+Armenia_AM263183                Chinese_AF346972                        84182
+
+Armenia_AM263183                Egypt_EF060316                          84188
+
+Armenia_AM263183                Fillipino_AF382012                      84185
+
+Armenia_AM263183                Japanese_AF346989                       84188
+
+Armenia_AM263183                Morocco_AF381983                        84184
+
+Armenia_AM263183                Native_American_AY195748                84197
+
+Armenia_AM263183                Navajo_AY195787                         84197
+
+Armenia_AM263183                South_American_Guarani_AF346984         84197
+
+Chinese_AF346972                Egypt_EF060316                          84214
+
+Chinese_AF346972                Fillipino_AF382012                      84222
+
+Chinese_AF346972                Japanese_AF346989                       84214
+
+Chinese_AF346972                Morocco_AF381983                        84166
+
+Chinese_AF346972                Native_American_AY195748                84190
+
+Chinese_AF346972                Navajo_AY195787                         84190
+
+Chinese_AF346972                South_American_Guarani_AF346984         84190
+
+Egypt_EF060316                  Fillipino_AF382012                      84217
+
+Egypt_EF060316                  Japanese_AF346989                       84220
+
+Egypt_EF060316                  Morocco_AF381983                        84172
+
+Egypt_EF060316                  Native_American_AY1957                  84196
+
+Egypt_EF060316                  Navajo_AY195787                         84196
+
+Egypt_EF060316                  South_American_Guarani_AF346984         84196
+
+Fillipino_AF382012              Japanese_AF346989                       84217
+
+Fillipino_AF382012              Morocco_AF381983                        84169
+
+Fillipino_AF382012              Native_American_AY195748                84193
+
+Fillipino_AF382012              Navajo_AY195787                         84193
+
+Fillipino_AF382012              South_American_Guarani_AF346984         84193
+
+Japanese_AF346989               Morocco_AF381983                        84172
+
+Japanese_AF346989               Native_American_AY195748                84196
+
+Japanese_AF346989               Navajo_AY195787                         84196
+
+Japanese_AF346989               South_American_Guarani_AF346984         84196
+
+Morocco_AF381983                Native_American_AY195748                84181
+
+Morocco_AF381983                Navajo_AY195787                         84181
+
+Morocco_AF381983                South_American_Guarani_AF346984         84181
+
+Native_American_AY195748        Navajo_AY195787                         84205
+
+Native_American_AY195748        South_American_Guarani_AF346984         84205
+
+Navajo_AY195787                 South_American_Guarani_AF346984         84205
+
+
+
+
+
+

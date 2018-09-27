@@ -1,0 +1,15 @@
+The DNA Alignment algorithm works correctly for all the sequences.
+
+Time taken to align a pair of DNA sequence is around 1.5 minutes
+
+This is because the algorithm is solving in O(n^2) time complexity.
+
+However the major drawback of this algorithm is the space complexity.
+
+As the DNA sequences are extremely long, the Cache generated for each computation is massive in volume.
+
+Another observation is that all the computations give a distance of roughly 84,000 .
+
+This is maybe because there is a lot of similarity in the DNA sequences across different races of humans and also across different species of humans vs Great Apes.
+
+

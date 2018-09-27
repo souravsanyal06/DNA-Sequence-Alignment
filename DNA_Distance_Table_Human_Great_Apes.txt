@@ -1,0 +1,14 @@
+DNA1     			 DNA2            	        	Distance
+
+prototypical_human_sequence	 baboon_Y18001	 	        	83808
+
+prototypical_human_sequence	 Bonobo_D38116 		                84152
+
+prototypical_human_sequence      Chimpanzee_D38113                      84072
+
+prototypical_human_sequence	 Chimpanzee_X93335	                84176
+
+prototypical_human_sequence	 Gorilla_D38114  	                82528
+
+prototypical_human_sequence	 Gorilla_Western_Lowland_X93347         82920
+
