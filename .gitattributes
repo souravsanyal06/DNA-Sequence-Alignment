@@ -1,0 +1,3 @@
+*.pbxproj binary merge=union
+
+*.py linguist-language=Python
