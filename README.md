@@ -5,15 +5,8 @@ The instructions for creating and running a living organism is encoded in DNA se
 
 Implement the basic version of the DNA alignment algorithm that uses O(n^2) space described in https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm (Links to an external site.)Links to an external site.. Use the following scoring scheme to measure similarity: 
 
-   A  C  G  T  -   
-A  5 -1 -2 -1 -3
-C -1  5 -3 -2 -4
-G -2 -2  5 -2 -2
-T -1 -3 -2  5 -1  
-- -3 -4 -2 -1  0
-
-
-
+Given in score_scheme.txt
+ 
 Write the traceback routine and the code to print out the alignment vertically.  Test the algorithm on some very simple sequences to confirm the results.
 
 Approximate the size of the solution matrix where the O(n^2) algorithm becomes impractical.
