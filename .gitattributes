@@ -1,3 +1,9 @@
+$ cat .gitattributes
+
 *.pbxproj binary merge=union
 
 *.py linguist-language=Python
+
+*.py linguist-vendored=Python
+
+jc_ansiterm_0.1/* linguist-vendored=true
